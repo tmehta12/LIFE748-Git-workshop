@@ -4,7 +4,7 @@
 
 ### Git Installation on Windows
 
-If your computer runs Windows, please follow the instructions provided by Cloud-SPAN for [installing git for Windows](https://cloud-span.github.io/00genomics/setup).
+If your computer runs Windows, please follow the instructions provided by Cloud-SPAN for [installing git on Windows](https://cloud-span.github.io/00genomics/setup).
 
 **NB**: You can now access a terminal using the "Git Bash" icon.
 
