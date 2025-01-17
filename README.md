@@ -6,7 +6,7 @@ This repository contains materials for the Introduction to Git workshop.
 
 Before the workshop, please make sure that you have access to a computer that has `git` installed on it. 
 
-Basic setup instructions can be found here.
+Basic setup instructions can be found [here](./GitSETUP.md).
 
 ## Slides
 
@@ -14,4 +14,4 @@ The workshop slides can be found here - please familiarise yourself with this co
 
 ## Worksheet
 
-The interactive workshop content is available here.
+The interactive workshop content is split into sections below:
