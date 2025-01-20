@@ -15,7 +15,8 @@ The workshop slides can be found [here](./LIFE748_Intro_to_Git.pdf) - please fam
 ## Worksheet
 
 The interactive workshop content is split into sections below:
-[0. Introduction to the workshop](./0.Intro.md)
-[1. Creating a workspace](./1.Workspace.md)
+> [0. Introduction to the workshop](./0.Intro.md)
+> 
+> [1. Creating a workspace](./1.Workspace.md)
 
 ![image](https://github.com/user-attachments/assets/6b66ad50-8279-4f44-8f29-e298a4516170)
