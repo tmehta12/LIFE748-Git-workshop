@@ -35,6 +35,6 @@ nothing to commit (create/copy files and use "git add" to track)
 > The above message is saying that there is a repository here, but that it is empty.
 
 ## Key Points
-> - git init initialises a repository.
+> - `git init` initialises a repository.
 > - Git stores all of its repository data in the .git directory.
 
