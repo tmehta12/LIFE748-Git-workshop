@@ -21,7 +21,7 @@ The interactive workshop content is split into sections below:
 >
 > [2. Initialising a local repository](./2_Initialising_local_repository.md)
 >
-> [3. Creating a code](./3_Create_code.md)
+> [3. Creating code for your repository](./3_Create_code.md)
 >
 > [4. First commit to repository](./4_First_commit.md)
 >
