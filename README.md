@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6b66ad50-8279-4f44-8f29-e298a4516170)
+
 # Introduction to Git workshop
 
 This repository contains materials for the Introduction to Git workshop.
