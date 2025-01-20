@@ -27,6 +27,6 @@ The interactive workshop content is split into sections below:
 >
 > [5. Testing the repository](./5_Testing_the_repo.md)
 >
-> 
+> [6. Making a modification](./6_Adding_a_feature.md)
 
 ![image](https://github.com/user-attachments/assets/6b66ad50-8279-4f44-8f29-e298a4516170)
