@@ -50,6 +50,6 @@ Date:   Thu Aug 31 14:43:35 2023 +0100
 > This is the "standard loop" of git: generate content; fill up an index of modified files; commit those changes to the repository.
 
 ## Key Points
-> - Use git add to commit a something to your repo
-> - Use git commit to add precide details of what was committed to the repo
-> - Use git log to track the committments
+> - Use `git add` to commit a something to your repo
+> - Use `git commit` to add precise details of what was committed to the repo
+> - Use `git log` to track the commitments
