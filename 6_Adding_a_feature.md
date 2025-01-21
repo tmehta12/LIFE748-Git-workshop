@@ -106,7 +106,7 @@ $ ./random-reads.py --version
 random-reads.py 0.1.0
 ~~~
 
-> As you can see, this version of `random-reads.py` is the old version!
+> As you can see, this version of `random-reads.py` is the old version "0.1.0" instead of "0.2.0"!
 
 ## 6.4 Merging branches to finalise main
 
