@@ -1,3 +1,5 @@
+# Introduction
+
 This workshop provides a beginners introduction on how git can be used "in real life".
 
 > **NB**: This is a brief overview of a complex topic.
