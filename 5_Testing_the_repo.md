@@ -1,8 +1,8 @@
 ## Chapter 5. Testing the repository
 
 ## Learning Outcomes
-> - How to delete something
-> - How to retrieve the deleted file using the backup
+> - Deleting something.
+> - Retrieving the deleted file using the backup.
 
 ## 5.1 Deleting something (to retrieve via backup)
 One use of git is as a method of backup.
@@ -46,5 +46,5 @@ random-reads*
 > This is a major benefit of `git`.
 
 ## Key Points
-> - You can always look at the history of your repo
-> - A key benefit of git is the ability to retrieve deleted files/content
+> - You can always look at the history of your repository.
+> - A key benefit of git is the ability to retrieve deleted files/content.
