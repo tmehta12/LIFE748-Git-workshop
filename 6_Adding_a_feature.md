@@ -28,7 +28,7 @@ nothing to commit, working tree clean
 Update the `random-reads.py` script to take an optional length argument by updating the following line numbers.
 For this, I suggest using the text editor VScode by: 
 > 1. copying the original code into a new file in VScode
-> 2. adding the lines below at the specified line numbers
+> 2. adding the lines below at the specified line numbers (make sure to properly indent)
 > 3. copying the new code into the `random-reads.py` file using:
 >> 3a. `nano random-reads.py`
 >> 
@@ -58,7 +58,7 @@ Update line 43:
         print("".join(choices(nucleotides, k=args.length)))
 ~~~
 
-Update line 45:
+Update line 44:
 
 ~~~python
         print("".join(choices(phred, k=args.length)))
