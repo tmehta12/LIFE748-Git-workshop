@@ -8,8 +8,15 @@
 Now that we have a repository set up it is time to write some code.
 This can be anything, but here we'll use a python script to generate random fastq data.
 
-Open your text editor or use a terminal text editor (like nano) to write the python code into a new file.
+Open your text editor or use a terminal text editor (like nano) to write the python code into a new file
+
 Make sure you save the file into your workspace directory, calling it `random-reads.py`.
+
+For example, you could do:
+> `nano random-reads.py`
+> copy and paste the contents below into the file
+> then `Control + O` and `ENTER` to write out
+> then `Control + X` to exit
 
 ~~~python
 #!/usr/bin/env python3
