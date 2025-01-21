@@ -25,7 +25,8 @@ On branch specify-readlength
 nothing to commit, working tree clean
 ~~~
 
-Update the `random-reads.py` script to take an optional length argument by updating the following line numbers:
+Update the `random-reads.py` script to take an optional length argument by updating the following line numbers.
+For this, I suggest using the text editor VScode by copying the original code, and adding the lines below at the specified line numbers: 
 
 Update line 10:
 
