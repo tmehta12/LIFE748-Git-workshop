@@ -71,8 +71,21 @@ Now that we've made some modifications, we make a new index and commit it as bef
 ~~~console
 $ git add random-reads.py
 $ git commit -m"Update random-reads.py to allow user-specified read length"
-[specify-readlength a2fe48f] Update random-reads.py to allow user-specified read length
- 1 file changed, 3 insertions(+), 2 deletions(-)
+[main 99584d7] Update random-reads.py to allow user-specified read length
+ Committer: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
 ~~~
 
 > Obviously, in the real world, features are a little more complex to implement, and would likely require multiple rounds of code editing and committing.
