@@ -30,5 +30,12 @@ The interactive workshop content is split into sections below:
 > [6. Making a modification](./6_Adding_a_feature.md)
 >
 > [7. Creating a remote repository](./7_Create_GitHub_repo.md)
+>
+> [8. Pushing the local repository to GitHub](./8_Pushing_to_GitHub.md)
+>
+> [9. Adding a README file for the project](./9_Adding_a_README.md)
+>
+> [10. Markdown](./10_Markdown.md)
+	
 
 ![image](https://github.com/user-attachments/assets/6b66ad50-8279-4f44-8f29-e298a4516170)
