@@ -1,10 +1,10 @@
-# 9. Adding a README file
+# Chapter 9a. Adding a README file
 
 ## Learning Outcomes
 > - Creating a README file describing the project in the markdown format - this is for the benefit of yourself and any other users (if made 'public').
 > - Pushing the README file to GitHub.
 
-## 9.1 Creating a README file
+## 9a.1 Creating a README file
 
 Currently, the repository is not very well documented.
 By convention, a file named `README` or `README.md` in the root of your workspace is taken to contain a description of the project.
@@ -39,7 +39,7 @@ options:
 ~~~
 ```
 
-## 9.2 Committing the README file
+## 9a.2 Committing the README file
 
 As we've added a file, we need to make a new commit (remember, this is a snapshot of your Git project):
 
@@ -51,7 +51,7 @@ $ git commit -m"Add README file"
  create mode 100644 README.md
 ~~~
 
-## 9.3 Pushing the committed README file to GitHub
+## 9a.3 Pushing the committed README file to GitHub
 
 We can now push this new commit to GitHub:
 
