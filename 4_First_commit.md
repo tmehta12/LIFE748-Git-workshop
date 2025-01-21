@@ -1,8 +1,8 @@
 # Chapter 4. Making our first commit
 
 ## Learning Outcomes
-> - How to add to and commit to our repository
-> - How to add details to what was committed 
+> - Adding and committing to our repository.
+> - Adding details to what was committed (for future reference). 
 
 ## 4.1 Add our file to the index
 We now need to commit this new file to the index, and commit it to our repository.
