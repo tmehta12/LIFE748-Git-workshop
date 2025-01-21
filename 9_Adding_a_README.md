@@ -1,8 +1,8 @@
 # 9. Adding a README file
 
 ## Learning Outcomes
-> - Adding a README file for the benefit of yourself and any other users (if made 'public').
-> - Pushing the README to GitHub.
+> - Creating a README file describing the project in the markdown format - this is for the benefit of yourself and any other users (if made 'public').
+> - Pushing the README file to GitHub.
 
 ## 9.1 Creating a README file
 
