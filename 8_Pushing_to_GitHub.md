@@ -1,4 +1,4 @@
-## 8. Pushing the local repository to GitHub
+# 8. Pushing the local repository to GitHub
 
 ## Learning Outcomes
 > - Pushing your local repository to the cloud (GitHub)
