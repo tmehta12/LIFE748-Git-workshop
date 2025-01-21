@@ -23,7 +23,7 @@ To github.com:tmehta12/test.git
 branch 'main' set up to track 'origin/main'.
 ~~~
 
-NOTE: you may get the following error
+*NOTE:* you may get the following error
 ~~~console
 git@github.com: Permission denied (publickey).
 fatal: Could not read from remote repository.
