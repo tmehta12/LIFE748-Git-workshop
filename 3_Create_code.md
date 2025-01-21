@@ -1,8 +1,8 @@
 # Chapter 3. Create our first code
 
 ## Learning Outcomes
-> - Prepare some code to add to our repository
-> - Check the status of our repository before committing
+> - Preparing some code to add to our repository.
+> - Examining the status of our repository before committing.
 
 ## 3.1 Write some code
 Now that we have a repository set up it is time to write some code.
