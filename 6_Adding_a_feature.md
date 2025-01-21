@@ -31,9 +31,13 @@ For this, I suggest using the text editor VScode by:
 > 2. adding the lines below at the specified line numbers
 > 3. copying the new code into the `random-reads.py` file using:
 >> `nano random-reads.py`
+>> 
 >> followed by `Control + K` to delete ALL line blocks
+>> 
 >> pasting the new code in
+>> 
 >> followed by `Control + 0` then `ENTER` to write out
+>> 
 >> then `Control + X` to exit 
 
 Update line 10:
