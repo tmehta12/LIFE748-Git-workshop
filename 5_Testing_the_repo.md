@@ -1,4 +1,4 @@
-## Chapter 5. Testing the repository
+# Chapter 5. Testing the repository
 
 ## Learning Outcomes
 > - Deleting something.
