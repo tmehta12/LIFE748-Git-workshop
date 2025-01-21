@@ -32,7 +32,7 @@ For this, I suggest using the text editor VScode by:
 > 3. copying the new code into the `random-reads.py` file using:
 >> 3a. `nano random-reads.py`
 >> 
->> 3b. followed by `Control + K` to delete ALL line blocks
+>> 3b. followed by holding down `Control + K` to delete ALL line blocks
 >> 
 >> 3c. pasting the new code in
 >> 
