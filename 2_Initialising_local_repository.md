@@ -9,7 +9,8 @@ Now that we've made a workspace directory, we need to initialise an empty git re
 
 ~~~console
 $ git init
-Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/ # this will be different for each user
+# Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
+# NOTE: This will be different for each user
 ~~~
 
 > This command has created a new directory in the `random-reads` directory called `.git`.
