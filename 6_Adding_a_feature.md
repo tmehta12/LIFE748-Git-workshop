@@ -122,25 +122,21 @@ Merge made by the 'ort' strategy.
 ~~~
 
 <!-- ~~~console -->
-$ git merge specify-readlength
-Updating 0200bb9..a2fe48f
-Fast-forward
- random-reads.py | 5 +++--
- 1 file changed, 3 insertions(+), 2 deletions(-)
-~~~
+<!-- $ git merge specify-readlength -->
+<!-- Updating 0200bb9..a2fe48f -->
+<!-- Fast-forward -->
+<!--  random-reads.py | 5 +++-- -->
+<!--  1 file changed, 3 insertions(+), 2 deletions(-) -->
+<!-- ~~~ -->
 
-Depending on versions, you may get thrown into vim with the message "Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch." At this point do the following in vim:
+<!-- Depending on versions, you may get thrown into vim with the message "Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch." At this point do the following in vim: -->
 
 
-> 1. Press `i` (i for insert)
-> 
-> 2. Write your merge message e.g., `Update random-reads.py to allow user-specified read length`
->
-> Press `esc` (escape)
->
-> Write `:wq` (write & quit)
->
-> Then press `enter` to exit
+<!-- > 1. Press `i` (i for insert) -->
+<!-- > 2. Write your merge message e.g., `Update random-reads.py to allow user-specified read length` -->
+<!-- > Press `esc` (escape) -->
+<!-- > Write `:wq` (write & quit) -->
+<!-- > Then press `enter` to exit -->
 
 
 
