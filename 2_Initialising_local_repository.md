@@ -1,8 +1,8 @@
 # Chapter 2. Initialising an empty local repository
 
 ## Learning Outcomes
-> - How to initialise a local repository.
-> - How to check the status of the local repository.
+> - Initialising a local repository.
+> - Examine the status of the local repository.
 
 ## 2.1 Initialise an empty git repo
 Now that we've made a workspace directory, we need to initialise an empty git repository:
