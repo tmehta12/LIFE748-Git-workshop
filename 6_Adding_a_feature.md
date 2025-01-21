@@ -98,7 +98,12 @@ Although we've now edited `random-reads.py`, we can still get the unedited versi
 $ git switch main
 Switched to branch 'main'
 $ ./random-reads.py --version
-random-reads.py 0.2.0
+random-reads.py 0.1.0
+
+NOTE: if you get the following error 'zsh: permission denied: ./random-reads.py', then run
+$ chmod +x random-reads.py
+$ ./random-reads.py --version
+random-reads.py 0.1.0
 ~~~
 
 > As you can see, this version of `random-reads.py` is the old version!
