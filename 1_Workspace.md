@@ -1,8 +1,8 @@
 # Chapter 1. Creating your workspace
 
 ## Learning Outcomes
-> - Get set up with Git
-> - How to create a workspace.
+> - Setting up Git.
+> - Creating a workspace.
 
 ## 1.1. Prerequisites
 
@@ -43,5 +43,5 @@ $ ls -a .
 > The `-a` argument to `ls` show hidden files and folders. Without this then the directory would not contain anything.
 
 ## Key Points
-> - Creating a local workspace is the starting point for any/all repositories
-> - There are many ways to create and manage repositories, including via the terminal
+> - Creating a local workspace is the starting point for any/all repositories.
+> - There are many ways to create and manage repositories, including via the terminal.
