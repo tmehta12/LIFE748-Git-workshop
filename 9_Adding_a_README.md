@@ -11,19 +11,19 @@ By convention, a file named `README` or `README.md` in the root of your workspac
 If such a file exists, GitHub will display it on the main repository page.
 Let's create such a file for our repository.
 
-Go back to your text editor, and create a second file called `README.md` in the workspace folder.
+Go back to your text editor e.g., VScode or `nano`, and create a second file called `README.md` in the workspace folder.
 
 Add the following text to the file:
 
 ```markdown
 # Generate Random FASTQ Reads
 
-The `random-reads` python script generates random nucleotide FASTQ data.
+The `random-reads.py` python script generates random nucleotide FASTQ data.
 
 ## Usage
 
 ~~~python
-usage: random-reads [-h] [-V] [-v {error,warning,info,debug}] [-l N] N
+usage: random-reads.py [-h] [-V] [-v {error,warning,info,debug}] [-l N] N
 
 Generate random FASTQ data
 
@@ -41,7 +41,7 @@ options:
 
 ## 9.2 Committing the README file
 
-As we've added a file, we need to make a new commit:
+As we've added a file, we need to make a new commit (remember, this is a snapshot of your Git project):
 
 ~~~console
 $ git add README.md
@@ -63,7 +63,7 @@ Delta compression using up to 8 threads
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 598 bytes | 598.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:alastair-droop/random-reads.git
+To github.com:tmehta12/random-reads.git
    a2fe48f..d75b82e  main -> main
 ~~~
 
@@ -71,3 +71,7 @@ To github.com:alastair-droop/random-reads.git
 
 Go back to Github and refresh the page again.
 Hopefully, you'll see the new README documentation appear.
+
+## Key Points
+> - Create a README file in your workspace to document and describe the project and it's features.
+> - Commit and Push the README file to GitHub - this will position in main branch for all to see on the landing page.
