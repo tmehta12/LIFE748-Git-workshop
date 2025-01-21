@@ -37,7 +37,7 @@ Follow the instruction on the [GitHub signup page](https://github.com/signup).
 
 **NB**: It will help if you use the same email address for GitHub as you did when setting up git above.
 
-## VSCode Installation & Setup [Optional - could be useful to use for your project]
+## VSCode Installation & Setup [This will be useful here and for your project]
 
 VSCode is a code editor with lots of features, including the ability to connect your GitHub account. In VSCode, you can share your source code and collaborate with others right within your editor.
 
