@@ -140,7 +140,14 @@ Merge made by the 'ort' strategy.
 
 
 
-> OK, we've now merged the `specify-readlength` code back into our main branch. We're back in the main branch but our code has been updated.
+> OK, we've now merged the `specify-readlength` code back into our main branch and added a commit message for this. We're back in the main branch but our code has been updated.
+
+You can test the code has been updated with
+~~~console
+$ ./random-reads.py --version
+random-reads.py 0.2.0
+~~~
+
 
 ## Key Points
 > - It is advised to create a new branch if you want to modify something e.g., existing code.
