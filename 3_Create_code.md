@@ -12,10 +12,13 @@ Open your text editor or use a terminal text editor (like nano) to write the pyt
 
 Make sure you save the file into your workspace directory, calling it `random-reads.py`.
 
-For example, you could do:
+For example, you could do the following in terminal:
 > `nano random-reads.py`
+
 > copy and paste the contents below into the file
+
 > then `Control + O` and `ENTER` to write out
+
 > then `Control + X` to exit
 
 ~~~python
