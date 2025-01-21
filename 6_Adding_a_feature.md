@@ -71,7 +71,7 @@ Now that we've made some modifications, we make a new index and commit it as bef
 ~~~console
 $ git add random-reads.py
 $ git commit -m"Update random-reads.py to allow user-specified read length"
-[main 99584d7] Update random-reads.py to allow user-specified read length
+[specify-readlength 57c676a] Update random-reads.py to allow user-specified read length
  Committer: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
