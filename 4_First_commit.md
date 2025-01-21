@@ -2,7 +2,7 @@
 
 ## Learning Outcomes
 > - Adding and committing to our repository.
-> - Adding details to what was committed (for future reference). 
+> - Explaining what was committed (for future reference). 
 
 ## 4.1 Add our file to the index
 We now need to commit this new file to the index, and commit it to our repository.
