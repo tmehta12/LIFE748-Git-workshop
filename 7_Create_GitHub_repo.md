@@ -1,7 +1,8 @@
-# 7. Create a GitHub Repository
+# Chapter 7. Create a GitHub Repository
 
 ## Learning Outcomes
-> - How to create a remote GitHub repository
+> - Creating a remote GitHub repository.
+> - Pushing the content of our local repository to the remote repository.
 
 ## 7.1 Creating a remote repository
 
@@ -46,4 +47,5 @@ git remote add origin git@github.com:tmehta12/random-reads.git
 > **NB**: You will have a different URL, as this repository is private to me.
 
 ## Key Points
-> - Use `git remote add` to link your local repository to a remote repository
+> - Create a remote repository on the GitHub website using the "Create a new repository" page. 
+> - On the terminal, use `git remote add` to link your local repository to the remote repository you created.
