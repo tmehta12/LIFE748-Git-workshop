@@ -128,5 +128,5 @@ Fast-forward
 > - It is advised to create a new branch if you want to modify something e.g., existing code.
 > - Use `git checkout` to create a new branch and `git status` to check the new branch.
 > - Use `git add` and `git commit` to add the modified version via a new index.
-> - Use `git switch main` to get the original version.
+> - Use `git switch main` to get back to main and view the original version.
 > - Use `git merge` to implement the new feature into the main branch.
