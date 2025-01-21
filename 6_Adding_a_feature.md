@@ -99,8 +99,10 @@ $ git switch main
 Switched to branch 'main'
 $ ./random-reads.py --version
 random-reads.py 0.1.0
+~~~
 
-NOTE: if you get the following error 'zsh: permission denied: ./random-reads.py', then run
+NOTE: if you get the following error `zsh: permission denied: ./random-reads.py`, then run
+~~~console
 $ chmod +x random-reads.py
 $ ./random-reads.py --version
 random-reads.py 0.1.0
