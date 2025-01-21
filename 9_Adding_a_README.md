@@ -59,12 +59,12 @@ We can now push this new commit to GitHub:
 $ git push
 Enumerating objects: 4, done.
 Counting objects: 100% (4/4), done.
-Delta compression using up to 8 threads
+Delta compression using up to 11 threads
 Compressing objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 598 bytes | 598.00 KiB/s, done.
+Writing objects: 100% (3/3), 607 bytes | 607.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:tmehta12/random-reads.git
-   a2fe48f..d75b82e  main -> main
+To github.com:tmehta12/test.git
+   a55e621..f3e88dd  main -> main
 ~~~
 
 > We didn't need to specify a branch or remote name, as git will use the current branch and the only remote (as there is only one).
