@@ -142,6 +142,7 @@ Merge made by the 'ort' strategy.
 
 > OK, we've now merged the `specify-readlength` code back into our main branch and added a commit message for this. We're back in the main branch but our code has been updated.
 
+
 You can test the code has been updated with
 ~~~console
 $ ./random-reads.py --version
