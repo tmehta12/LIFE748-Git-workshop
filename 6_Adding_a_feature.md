@@ -1,13 +1,13 @@
 # Chapter 6. Adding a feature
 
 ## Learning Outcomes
-> - How to update your code
-> - How to create a new branch
-> - How to retrieve or look at previous versions of the code
+> - Updating something e.g., code.
+> - Creating a new branch for updating. 
+> - Retrieving or examining previous versions of something e.g., code.
 
 ## 6.1 Modifications
 
-Now, we need to update our random-reads.py code to allow us to alter the length of the reads returned.
+Now, we need to update our `random-reads.py` code to allow us to alter the length of the reads returned.
 We'll do this in a new branch in case our modifications break something.
 
 First, let's create a new branch my checking out the latest commit into a new branch (called `specify-readlength`):
@@ -92,8 +92,8 @@ Fast-forward
 > OK, we've now merged the `specify-readlength` code back into our main branch. We're back in the main branch but our code has been updated.
 
 ## Key Points
-> - It is advised to create a new branch if you want to modify something e.g., existing code 
-> - Use `git checkout` to create a new branch and `git status` to check the new branch
-> - Use `git add` and `git commit` to add the modified version via a new index
-> - Use `git switch main` to get the original version
-> - Use `git merge` to implement the new feature into the main branch
+> - It is advised to create a new branch if you want to modify something e.g., existing code.
+> - Use `git checkout` to create a new branch and `git status` to check the new branch.
+> - Use `git add` and `git commit` to add the modified version via a new index.
+> - Use `git switch main` to get the original version.
+> - Use `git merge` to implement the new feature into the main branch.
