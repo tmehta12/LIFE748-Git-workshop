@@ -29,7 +29,12 @@ Update the `random-reads.py` script to take an optional length argument by updat
 For this, I suggest using the text editor VScode by: 
 > 1. copying the original code into a new file in VScode
 > 2. adding the lines below at the specified line numbers
-> 3. copying the new code into the `random-reads.py` file using `nano random-reads.py`, followed by `Control + K` to delete ALL line blocks, pasting the new code in, followed by `Control + 0` then `ENTER` to write out, and `Control + X` to exit 
+> 3. copying the new code into the `random-reads.py` file using:
+>> `nano random-reads.py`
+>> followed by `Control + K` to delete ALL line blocks
+>> pasting the new code in
+>> followed by `Control + 0` then `ENTER` to write out
+>> then `Control + X` to exit 
 
 Update line 10:
 
