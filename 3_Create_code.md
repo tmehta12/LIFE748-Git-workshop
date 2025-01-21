@@ -13,13 +13,13 @@ Open your text editor or use a terminal text editor (like nano) to write the pyt
 Make sure you save the file into your workspace directory, calling it `random-reads.py`.
 
 For example, you could do the following in terminal:
-> `nano random-reads.py`
-
-> copy and paste the contents below into the file
-
-> then `Control + O` and `ENTER` to write out
-
-> then `Control + X` to exit
+> 1. `nano random-reads.py`
+>
+> 2. copy and paste the contents below into the file
+>
+> 3. then `Control + O` and `ENTER` to write out
+>
+> 4. then `Control + X` to exit
 
 ~~~python
 #!/usr/bin/env python3
