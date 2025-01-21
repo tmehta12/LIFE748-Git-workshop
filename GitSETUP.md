@@ -29,6 +29,8 @@ git config --global user.email "your.email@mail.com"
 
 **NB**: Use your own name and email address.
 
+Also, I would recommend adding the SSH key of your laptop to your GitHub account for authentication. Please follow the instructions here: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
 ## Github Account Setup
 
 In order to use GitHub, you need an account.  
