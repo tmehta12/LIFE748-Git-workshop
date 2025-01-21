@@ -30,10 +30,27 @@ We can now store this set of changes into a commit:
 
 ~~~console
 $ git commit -m"Initial commit of the random-reads.py script"
-[main (root-commit) 0200bb9] Initial commit of the random-reads.py script
- 1 file changed, 45 insertions(+)
- create mode 100755 random-reads
+[main (root-commit) a91347b] Initial commit of the random-reads.py script
+ Committer: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 42 insertions(+)
+ create mode 100644 random-reads.py
 ~~~
+
+> This will look different for each user
+> Don't worry about the initial comments of name and email address, this will be sorted out in the next few steps.
+> The main point is that the changes have now been committed.
 
 ## 4.3 Check the log of the commit
 
@@ -41,9 +58,9 @@ Now, let's check the log:
 
 ~~~console
 $ git log
-commit 0200bb9c18a83f8f3d8341d472f58b4a72563fe4 (HEAD -> main)
-Author: Alastair Droop <alastair.droop@york.ac.uk>
-Date:   Thu Aug 31 14:43:35 2023 +0100
+commit a91347bacb56b9c1cd8b14e38ed16aabc67d8bc4 (HEAD -> main)
+Author: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
+Date:   Tue Jan 21 12:54:58 2025 +0000
 
     Initial commit of the random-reads.py script
 ~~~
