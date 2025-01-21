@@ -1,4 +1,4 @@
-# 10. Markdown
+# Chapter 9b. Markdown
 
 > The `README.md` file we've just created uses a format called Markdown (.md).
 
