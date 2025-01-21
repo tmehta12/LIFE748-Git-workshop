@@ -11,6 +11,7 @@ Let's test this by deleting the `random-reads.py` file.
 ~~~console
 $ rm random-reads.py
 $ ls
+Here, you will have NOTHING appear on your terminal as the folder is now empty of any non-hidden files
 ~~~
 
 Oops!  We've accidentially deleted our precious code!
