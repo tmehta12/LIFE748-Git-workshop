@@ -40,7 +40,7 @@ We can retrieve the file from the latest commit:
 $ git checkout random-reads.py
 Updated 1 path from the index
 $ ls
-random-reads*
+random-reads.py
 ~~~
 
 > Great! We've got our code back again.
