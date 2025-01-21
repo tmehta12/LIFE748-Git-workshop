@@ -6,6 +6,9 @@
 
 ## 4.1 Add our file to the index
 We now need to commit this new file to the index, and commit it to our repository.
+
+Commits can be thought of as snapshots or milestones along the timeline of a Git project
+
 The first step is to add it to the index:
 
 ~~~console
@@ -50,6 +53,7 @@ Date:   Thu Aug 31 14:43:35 2023 +0100
 > This is the "standard loop" of git: generate content; fill up an index of modified files; commit those changes to the repository.
 
 ## Key Points
-> - Use `git add` to commit a something to your repo
-> - Use `git commit` to add precise details of what was committed to the repo
-> - Use `git log` to track the commitments
+> - Use `git add` to commit a something to your repo.
+> - Commits are snapshots/milestones along the timeline of a Git project.
+> - Use `git commit` to add precise details of what was committed to the repo.
+> - Use `git log` to track the commitments.
