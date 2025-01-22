@@ -33,9 +33,13 @@ The interactive workshop content is split into sections below:
 >
 > [8. Pushing the local repository to GitHub](./8_Pushing_to_GitHub.md)
 >
-> [9a. Adding a README file for the project](./9a_Adding_a_README.md)
+> [9. Adding a README file for the project](./9_Adding_a_README.md)
 >
-> [9b. Markdown](./9b_Markdown.md)
+> [10. Markdown](./10_Markdown.md)
+>
+> [11. Using GitHub in VS Code](./11_VScode.md)
+>
+> [12. Exercise - create a repo for your own research project](./12_Exercise.md)
 	
 
 ![image](https://github.com/user-attachments/assets/6b66ad50-8279-4f44-8f29-e298a4516170)
