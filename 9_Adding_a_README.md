@@ -1,4 +1,4 @@
-# Chapter 9a. Adding a README file
+# Chapter 9. Adding a README file
 
 ## Learning Outcomes
 > - Creating a README file describing the project in the markdown format - this is for the benefit of yourself and any other users (if made 'public').
