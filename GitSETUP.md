@@ -1,6 +1,6 @@
 # Pre-Workshop Git Setup
 
-**NB**
+## BEFORE you start:
 > - You can use the UoL teaching centre PCs for the following workshop - if you plan on doing so, then please skip to step #3 below only.
 > 
 > - If you want to use your own laptop, then that is also fine and please complete all steps below (as per your personal laptop platform e.g., Windows or Mac)
