@@ -7,7 +7,6 @@
 > If you want to practice, then please follow: https://code.visualstudio.com/docs/sourcecontrol/overview 
 >
 > You can either initialise a new repository or clone an existing one (like the one/s we created in the workshop) to directly work on. Give it a go!
->
 
 ![image](https://github.com/user-attachments/assets/d83c44ec-c8c4-4030-9621-3cf139bbdbf0)
 
