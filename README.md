@@ -15,25 +15,25 @@ The workshop slides can be found [here](./LIFE748_Intro_to_Git.pdf) - please fam
 ## Worksheet
 
 The interactive workshop content is split into sections below:
-> [0. Introduction to the workshop](./0_Intro.md)
+> [0. Introduction to the workshop](./00_Intro.md)
 > 
-> [1. Creating a workspace](./1_Workspace.md)
+> [1. Creating a workspace](./01_Workspace.md)
 >
-> [2. Initialising a local repository](./2_Initialising_local_repository.md)
+> [2. Initialising a local repository](./02_Initialising_local_repository.md)
 >
-> [3. Creating code for your repository](./3_Create_code.md)
+> [3. Creating code for your repository](./03_Create_code.md)
 >
-> [4. First commit to repository](./4_First_commit.md)
+> [4. First commit to repository](./04_First_commit.md)
 >
-> [5. Testing the repository](./5_Testing_the_repo.md)
+> [5. Testing the repository](./05_Testing_the_repo.md)
 >
-> [6. Making a modification](./6_Adding_a_feature.md)
+> [6. Making a modification](./06_Adding_a_feature.md)
 >
-> [7. Creating a remote repository](./7_Create_GitHub_repo.md)
+> [7. Creating a remote repository](./07_Create_GitHub_repo.md)
 >
-> [8. Pushing the local repository to GitHub](./8_Pushing_to_GitHub.md)
+> [8. Pushing the local repository to GitHub](./08_Pushing_to_GitHub.md)
 >
-> [9. Adding a README file for the project](./9_Adding_a_README.md)
+> [9. Adding a README file for the project](./09_Adding_a_README.md)
 >
 > [10. Markdown](./10_Markdown.md)
 >
