@@ -52,13 +52,13 @@ Add a new line 24:
     parser.add_argument("-l", "--length", dest="length", type=int, default = "100", metavar="N", help="Read length to yield")
 ~~~
 
-Update line 43:
+Update line 41:
 
 ~~~python
         print("".join(choices(nucleotides, k=args.length)))
 ~~~
 
-Update line 44:
+Update line 43:
 
 ~~~python
         print("".join(choices(phred, k=args.length)))
@@ -92,12 +92,21 @@ After doing this, you may fix the identity used for this commit with:
 
 ## 6.3 Getting the old version
 
-Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main:
+Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main (in Mac/Linux) or master (in Windows):
 
+*For Mac/Linux*
 ~~~console
 $ git switch main
 Switched to branch 'main'
 $ ./random-reads.py --version
+random-reads.py 0.1.0
+~~~
+
+*For Windows*
+~~~console
+$ git switch master
+Switched to branch 'master'
+$ python random-reads.py --version
 random-reads.py 0.1.0
 ~~~
 
