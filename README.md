@@ -12,7 +12,7 @@ Basic setup instructions can be found [here](./GitSETUP.md).
 
 The workshop slides can be found [here](./LIFE748_Intro_to_Git.pdf) - please familiarise yourself with this content prior to the workshop.
 
-## Worksheet
+## Worksheets
 
 The interactive workshop content is split into sections below:
 > [0. Introduction to the workshop](./00_Intro.md)
