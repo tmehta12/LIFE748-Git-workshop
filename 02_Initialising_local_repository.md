@@ -26,7 +26,7 @@ Check that git thinks that the repository is OK:
 
 ~~~console
 $ git status
-On branch main
+On branch main # NB: this will show as 'master' on windows
 
 No commits yet
 
