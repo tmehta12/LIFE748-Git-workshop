@@ -52,13 +52,13 @@ Add a new line 24:
     parser.add_argument("-l", "--length", dest="length", type=int, default = "100", metavar="N", help="Read length to yield")
 ~~~
 
-Update line 41:
+Update line 40 `print("".join(choices(nucleotides, k=10)))` to:
 
 ~~~python
         print("".join(choices(nucleotides, k=args.length)))
 ~~~
 
-Update line 43:
+Update line 42 `print("".join(choices(phred, k=10)))` to:
 
 ~~~python
         print("".join(choices(phred, k=args.length)))
