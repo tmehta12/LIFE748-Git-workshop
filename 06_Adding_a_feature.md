@@ -108,8 +108,8 @@ Although we've now edited `random-reads.py`, we can still get the unedited versi
 
 > *For Mac/Linux - NB: the main branch could also be 'master' so use `git switch master` if so*
 > ~~~bash
-git switch main
-~~~
+> git switch main
+> ~~~
 this will output:
 ~~~console
 Switched to branch 'main'
