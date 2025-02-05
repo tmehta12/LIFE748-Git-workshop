@@ -35,8 +35,9 @@ cd random-reads
 
 Make sure that it is empty, by listing all of the directory contents:
 
-~~~console
+~~~bash
 ls -a
+~~~console
 ./    ../
 ~~~
 
