@@ -7,13 +7,13 @@ This workshop provides a beginners introduction on how git can be used "in real 
 
 > If you want to engage in further (and more in-depth) content beyond the basics in this workshop, then please look at the [Version Control with Git](https://swcarpentry.github.io/git-novice/) lesson on Software Carpentry.
 
-In this workshop, commands to run in your terminal are shown like (in black):
+In this workshop, commands to run in your terminal are shown like:
 
 ~~~bash
 echo "This is an output from the above command"
 ~~~
 
-Outputs given from running a command are shown like (in all blue)
+Outputs given from running a command are shown with a proceeding statement and console output like:
 ~~~console
 This is an output from the above command
 ~~~
