@@ -104,7 +104,7 @@ After doing this, you may fix the identity used for this commit with:
 
 ## 6.3 Getting the old version
 
-Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main/master (in Mac/Linux) or master (in Windows) - please follw the correct commands for you system!!!
+Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main/master (in Mac/Linux) or master (in Windows) - please FOLLOW the CORRECT commands for your system!!!
 
 > *For Mac/Linux - NB: the main branch could also be 'master' so use `git switch master` if instead, but if not, run:*
 >> ~~~bash
@@ -122,8 +122,9 @@ Although we've now edited `random-reads.py`, we can still get the unedited versi
 >> ~~~console
 >> random-reads.py 0.1.0
 >> ~~~
->
->
+
+
+
 > *For Windows*, run:
 >> ~~~bash
 >> git switch master
