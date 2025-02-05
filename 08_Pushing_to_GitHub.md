@@ -8,9 +8,16 @@
 
 Now that the local repository is linked to a remote location, we can push it to the cloud:
 
+First run:
+~~~bash
+git branch -M main
+~~~
+followed by:
+~~~bash
+git push -u origin main
+~~~
+this will output something like:
 ~~~console
-$ git branch -M main
-$ git push -u origin main
 Enumerating objects: 20, done.
 Counting objects: 100% (20/20), done.
 Delta compression using up to 11 threads
@@ -35,8 +42,8 @@ and the repository exists.
 If so, you will need to add a new SSH key to your GitHub account for authentication. Please follow the instructions here: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account 
 
 Once done, then re-run
-~~~console
-$ git push -u origin main
+~~~bash
+git push -u origin main
 ~~~
 
 ## 8.2 Checking the repository on GitHub
