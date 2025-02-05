@@ -8,18 +8,25 @@
 One use of git is as a method of backup.
 Let's test this by deleting the `random-reads.py` file.
 
-~~~console
-$ rm random-reads.py
+~~~bash
+rm random-reads.py
+~~~
+~~~bash
 $ ls
-Here, you will have NOTHING appear on your terminal as the folder is now empty of any non-hidden files
 ~~~
 
-Oops!  We've accidentially deleted our precious code!
-Not to worry; we have a copy in the repository.
-First, let's check what git thinks about this:
 
+> Here, you will have NOTHING appear on your terminal as the folder is now empty of any non-hidden files
+> Oops!  We've accidentially deleted our precious code!
+> Not to worry; we have a copy in the repository.
+> First, let's check what git thinks about this:
+
+~~~bash
+git status
+~~~
+
+this will output:
 ~~~console
-$ git status
 On branch main
 Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
@@ -36,10 +43,21 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 We can retrieve the file from the latest commit:
 
+~~~bash
+git checkout random-reads.py
+~~~
+
+this will output:
 ~~~console
-$ git checkout random-reads.py
 Updated 1 path from the index
-$ ls
+
+now run:
+~~~bash
+ls
+~~~
+
+this should output:
+~~~console
 random-reads.py
 ~~~
 
