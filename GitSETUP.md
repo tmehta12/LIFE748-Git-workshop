@@ -31,6 +31,9 @@ You can do this by firstly starting a terminal (see above), and then typing the 
 
 ~~~bash
 git config --global user.name "Your Name"
+~~~
+followed by typing:
+~~~bash
 git config --global user.email "your.email@mail.com"
 ~~~
 
