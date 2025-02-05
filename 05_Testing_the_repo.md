@@ -11,8 +11,9 @@ Let's test this by deleting the `random-reads.py` file.
 ~~~bash
 rm random-reads.py
 ~~~
+now run:
 ~~~bash
-$ ls
+ls
 ~~~
 
 
