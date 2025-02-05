@@ -7,11 +7,13 @@
 > If you want to practice, then please download VScode and/or PyCharm:
 >
 > [VSCode downloads page](https://code.visualstudio.com/download)
+> 
 > [PyCharm downloads page](https://www.jetbrains.com/pycharm/download)
 >
 > then follow one of below depending on the software: https://code.visualstudio.com/docs/sourcecontrol/overview
 >
 > [VSCode Git](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
+> 
 > [PyCharm Git](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
 >
 > You can either initialise a new repository or clone an existing one (like the one/s we created in the workshop) to directly work on. Give it a go!
