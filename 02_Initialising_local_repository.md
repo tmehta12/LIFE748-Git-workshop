@@ -7,8 +7,11 @@
 ## 2.1 Initialise an empty git repo
 Now that we've made a workspace directory, we need to initialise an empty git repository:
 
+~~~bash
+git init
+~~~
+this will show:
 ~~~console
-$ git init
 Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
 NOTE: This will be different for each user
 ~~~
@@ -16,16 +19,22 @@ NOTE: This will be different for each user
 > This command has created a new directory in the `random-reads` directory called `.git`.
 > As it starts with a dot, it is hidden (at least in bash), so we need to use the `-a` argument in `ls` to see it:
 
+~~~bash
+ls -a
+~~~
+this will show:
 ~~~console
-$ ls -a
 ./    ../   .git/
 ~~~
 
 ## 2.2 Check the status
 Check that git thinks that the repository is OK:
 
+~~~bash
+git status
+~~~
+this will show:
 ~~~console
-$ git status
 On branch main # NB: this may show as 'master' - please take note of this for later
 
 No commits yet
