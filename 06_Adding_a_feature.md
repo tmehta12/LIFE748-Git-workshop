@@ -94,7 +94,7 @@ After doing this, you may fix the identity used for this commit with:
 
 Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main (in Mac/Linux) or master (in Windows):
 
-*For Mac/Linux*
+*For Mac/Linux - NB: the main branch could also be 'master' so use `git switch master` if so*
 ~~~console
 $ git switch main
 Switched to branch 'main'
