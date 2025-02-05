@@ -46,8 +46,15 @@ Follow the instruction on the [GitHub signup page](https://github.com/signup).
 
 **NB**: It will help if you use the same email address for GitHub as you did when setting up git above.
 
-## 4. VSCode Installation & Setup [This will be useful here and for your project]
+## 4. VSCode and PyCharm Installation & Setup [This will be useful here and for your project]
 
-VSCode is a code editor with lots of features, including the ability to connect your GitHub account. In VSCode, you can share your source code and collaborate with others right within your editor.
+VSCode and PyCharm are code editors with lots of features, including the ability to connect your GitHub account. In VSCode and PyCharm, you can share your source code and collaborate with others right within your editor.
 
-If you wish to use VSCode and do not already have it installed, download it from the [VSCode downloads page](https://code.visualstudio.com/download).
+If you wish to use either and do not already have them installed, download from: 
+[VSCode downloads page](https://code.visualstudio.com/download)
+[PyCharm downloads page](https://www.jetbrains.com/pycharm/download)
+
+You can then set up and use Git in either using the following guides:
+[VSCode Git](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
+[PyCharm Git](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
+
