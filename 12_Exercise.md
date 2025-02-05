@@ -6,7 +6,7 @@
 > - Pushing your code and text to your research project repository
 
 ## Steps (for your own 'Research Project')
-You can do this via the terminal or using VScode - the choice is yours!
+You can do this via the terminal or using VScode/PyCharm - the choice is yours!
 > 1. Create a local workspace
 > 2. Initialise the local repository
 > 3. Collate the code/text you want in your repository
