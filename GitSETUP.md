@@ -51,11 +51,13 @@ Follow the instruction on the [GitHub signup page](https://github.com/signup).
 VSCode and PyCharm are code editors with lots of features, including the ability to connect your GitHub account. In VSCode and PyCharm, you can share your source code and collaborate with others right within your editor.
 
 If you wish to use either and do not already have them installed, download from: 
+
 [VSCode downloads page](https://code.visualstudio.com/download)
 
 [PyCharm downloads page](https://www.jetbrains.com/pycharm/download)
 
 You can then set up and use Git in either using the following guides:
+
 [VSCode Git](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
 
 [PyCharm Git](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
