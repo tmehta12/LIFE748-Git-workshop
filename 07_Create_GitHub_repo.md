@@ -34,11 +34,11 @@ By default, the main remote repository is called `origin` - you could use whatev
 
 NOTE: The `git remote add` command takes two arguments:
 
-    A remote name, for example, origin
-    A remote URL, for example, https://github.com/OWNER/REPOSITORY.git
+> A remote name, for example, origin
+> A remote URL, for example, https://github.com/OWNER/REPOSITORY.git
 
 
-Link the local repository to the new remote repository (we will use the default name `origin`)
+Link the local repository to the new remote repository (we will use the default name `origin`), by running:
 
 ~~~bash
 git remote add origin git@github.com:tmehta12/random-reads.git
