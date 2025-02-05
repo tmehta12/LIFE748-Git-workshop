@@ -11,9 +11,13 @@ Commits can be thought of as snapshots or milestones along the timeline of a Git
 
 The first step is to add it to the index:
 
+~~~bash
+git add random-reads.py
+git status
+~~~
+
+this will output:
 ~~~console
-$ git add random-reads.py
-$ git status
 On branch main
 
 No commits yet
@@ -28,8 +32,12 @@ Changes to be committed:
 ## 4.2 Store the changes to a commit
 We can now store this set of changes into a commit:
 
+~~~bash
+git commit -m"Initial commit of the random-reads.py script"
+~~~
+
+this will output:
 ~~~console
-$ git commit -m"Initial commit of the random-reads.py script"
 [main (root-commit) a91347b] Initial commit of the random-reads.py script
  Committer: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
 Your name and email address were configured automatically based
@@ -56,8 +64,13 @@ After doing this, you may fix the identity used for this commit with:
 
 Now, let's check the log:
 
+~~~bash
+git log
+~~~
+
+this will output:
+
 ~~~console
-$ git log
 commit a91347bacb56b9c1cd8b14e38ed16aabc67d8bc4 (HEAD -> main)
 Author: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
 Date:   Tue Jan 21 12:54:58 2025 +0000
