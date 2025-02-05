@@ -122,8 +122,8 @@ Although we've now edited `random-reads.py`, we can still get the unedited versi
 >> ~~~console
 >> random-reads.py 0.1.0
 >> ~~~
-
-
+>
+>
 > *For Windows*, run:
 >> ~~~bash
 >> git switch master
