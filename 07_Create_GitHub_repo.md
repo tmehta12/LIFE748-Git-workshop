@@ -35,6 +35,7 @@ By default, the main remote repository is called `origin` - you could use whatev
 NOTE: The `git remote add` command takes two arguments:
 
 > A remote name, for example, origin
+> 
 > A remote URL, for example, https://github.com/OWNER/REPOSITORY.git
 
 
