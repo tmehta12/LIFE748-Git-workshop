@@ -37,6 +37,8 @@ Make sure that it is empty, by listing all of the directory contents:
 
 ~~~bash
 ls -a
+~~~
+this will show:
 ~~~console
 ./    ../
 ~~~
