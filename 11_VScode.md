@@ -4,13 +4,16 @@
 >
 > If however, you prefer the simplicity of a GUI, then we can avoid the back and forth of terminal commands by using the GitHub extension in either VScode or PyCharm. 
 >
-> If you want to practice, then please download VScode and/or PyCharm:
+> If you want to practice, then:
+>
+> *1) download VScode and/or PyCharm:*
 >
 > [VSCode downloads page](https://code.visualstudio.com/download)
 > 
 > [PyCharm downloads page](https://www.jetbrains.com/pycharm/download)
 >
-> then follow one of below depending on the software: https://code.visualstudio.com/docs/sourcecontrol/overview
+>
+> *2) follow one of below depending on the software:* 
 >
 > [VSCode Git](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
 > 
