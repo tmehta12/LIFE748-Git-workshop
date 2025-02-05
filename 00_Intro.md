@@ -13,7 +13,7 @@ In this workshop, commands to run in your terminal are shown like (in black):
 echo "This is an output from the above command"
 ~~~
 
-Outputs given from running a command are shown in like (in blue)
+Outputs given from running a command are shown like (in all blue)
 ~~~console
 This is an output from the above command
 ~~~
