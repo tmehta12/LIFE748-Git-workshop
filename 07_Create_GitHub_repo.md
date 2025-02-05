@@ -40,7 +40,7 @@ NOTE: The `git remote add` command takes two arguments:
 
 Link the local repository to the new remote repository (we will use the default name `origin`)
 
-~~~console
+~~~bash
 git remote add origin git@github.com:tmehta12/random-reads.git
 ~~~
 
