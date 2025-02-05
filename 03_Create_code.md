@@ -70,8 +70,11 @@ if __name__ == "__main__":
 
 Now that we've created a file, let's see what git tells us:
 
+~~~bash
+git status
+~~~
+this will show:
 ~~~console
-$ git status
 On branch main
 
 No commits yet
