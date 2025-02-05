@@ -13,6 +13,8 @@ The first step is to add it to the index:
 
 ~~~bash
 git add random-reads.py
+~~~
+~~~bash
 git status
 ~~~
 
