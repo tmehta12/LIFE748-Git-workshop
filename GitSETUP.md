@@ -52,9 +52,11 @@ VSCode and PyCharm are code editors with lots of features, including the ability
 
 If you wish to use either and do not already have them installed, download from: 
 [VSCode downloads page](https://code.visualstudio.com/download)
+
 [PyCharm downloads page](https://www.jetbrains.com/pycharm/download)
 
 You can then set up and use Git in either using the following guides:
 [VSCode Git](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
+
 [PyCharm Git](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
 
