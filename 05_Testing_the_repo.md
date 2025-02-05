@@ -51,7 +51,7 @@ git checkout random-reads.py
 this will output:
 ~~~console
 Updated 1 path from the index
-
+~~~
 now run:
 ~~~bash
 ls
