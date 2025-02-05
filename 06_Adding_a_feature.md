@@ -125,17 +125,20 @@ Once we're happy with this new feature, we can merge the branch back into the ma
 
 ~~~console
 $ git merge -m"Update random-reads.py to allow user-specified read length" specify-readlength
+
 Merge made by the 'ort' strategy.
  random-reads.py | 5 +++--
  1 file changed, 3 insertions(+), 2 deletions(-)
 ~~~
 
 <!-- ~~~console -->
+
 <!-- $ git merge specify-readlength -->
 <!-- Updating 0200bb9..a2fe48f -->
 <!-- Fast-forward -->
 <!--  random-reads.py | 5 +++-- -->
 <!--  1 file changed, 3 insertions(+), 2 deletions(-) -->
+
 <!-- ~~~ -->
 
 <!-- Depending on versions, you may get thrown into vim with the message "Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch." At this point do the following in vim: -->
