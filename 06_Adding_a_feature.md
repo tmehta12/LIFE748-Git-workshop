@@ -106,55 +106,55 @@ After doing this, you may fix the identity used for this commit with:
 
 Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main/master (in Mac/Linux) or master (in Windows) - please follw the correct commands for you system!!!
 
-> *For Mac/Linux - NB: the main branch could also be 'master' so use `git switch master` if so*
-> ~~~bash
-> git switch main
-> ~~~
-this will output:
-~~~console
-Switched to branch 'main'
-~~~
-now run:
-~~~console
-./random-reads.py --version
-~~~
-this will output:
-~~~console
-random-reads.py 0.1.0
-~~~
+> *For Mac/Linux - NB: the main branch could also be 'master' so use `git switch master` if instead, but if not, run:*
+>> ~~~bash
+>> git switch main
+>> ~~~
+>> this will output:
+>> ~~~console
+>> Switched to branch 'main'
+>> ~~~
+>> now run:
+>> ~~~console
+>> ./random-reads.py --version
+>> ~~~
+>> this will output:
+>> ~~~console
+>> random-reads.py 0.1.0
+>> ~~~
 
 
-> *For Windows*
-~~~bash
-$ git switch master
-~~~
-this will output:
-~~~console
-Switched to branch 'master'
-~~~
-now run:
-~~~bash
-$ python random-reads.py --version
-~~~
-this will output:
-~~~console
-random-reads.py 0.1.0
-~~~
+> *For Windows*, run:
+>> ~~~bash
+>> git switch master
+>> ~~~
+>> this will output:
+>> ~~~console
+>> Switched to branch 'master'
+>> ~~~
+>> now run:
+>> ~~~bash
+>> python random-reads.py --version
+>> ~~~
+>> this will output:
+>> ~~~console
+>> random-reads.py 0.1.0
+>> ~~~
 
-NOTE: if you get the following error `zsh: permission denied: ./random-reads.py`, then run
-~~~bash
-chmod +x random-reads.py
-~~~
-followed by:
-~~~bash
-./random-reads.py --version
-~~~
-this will output:
-~~~console
-random-reads.py 0.1.0
-~~~
+NOTE: IF you get the following error `zsh: permission denied: ./random-reads.py`, then run
+>> ~~~bash
+>> chmod +x random-reads.py
+>> ~~~
+>> followed by:
+>> ~~~bash
+>> ./random-reads.py --version
+>> ~~~
+>> this will output:
+>> ~~~console
+>> random-reads.py 0.1.0
+>> ~~~
 
-> As you can see, this version of `random-reads.py` is the old version "0.1.0" instead of "0.2.0"!
+As you can see, this version of `random-reads.py` is the old version "0.1.0" instead of "0.2.0"!
 
 ## 6.4 Merging branches to finalise main
 
