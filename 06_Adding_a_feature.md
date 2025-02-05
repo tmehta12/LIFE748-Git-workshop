@@ -10,17 +10,23 @@
 Now, we need to update our `random-reads.py` code to allow us to alter the length of the reads returned.
 We'll do this in a new branch in case our modifications break something.
 
-First, let's create a new branch my checking out the latest commit into a new branch (called `specify-readlength`):
+First, let's create a new branch my checking out the latest commit into a new branch (called `specify-readlength`) by running:
 
+~~~bash
+git checkout -b specify-readlength
+~~~
+this will output:
 ~~~console
-$ git checkout -b specify-readlength
 Switched to a new branch 'specify-readlength'
 ~~~
 
-Now, when we check `git status` we will see we're on the new `specify-readlength` branch:
+Now, when we check `git status` we will see we're on the new `specify-readlength` branch by running:
 
-~~~console
+~~~bash
 $ git status
+~~~
+this will output:
+~~~console
 On branch specify-readlength
 nothing to commit, working tree clean
 ~~~
@@ -66,12 +72,17 @@ Update line 42 `print("".join(choices(phred, k=10)))` to:
 
 ## 6.2 Committing the modifications
 
-Now that we've made some modifications, we make a new index and commit it as before:
+Now that we've made some modifications, we make a new index and commit it as before by running both:
 
+~~~bash
+git add random-reads.py
+~~~
+and ..
+~~~bash
+git commit -m"Update random-reads.py to allow user-specified read length"
+~~~
+this will output:
 ~~~console
-$ git add random-reads.py
-$ git commit -m"Update random-reads.py to allow user-specified read length"
-
 [specify-readlength 57c676a] Update random-reads.py to allow user-specified read length
  Committer: Tarang Mehta <tarangmehta@Tarangs-MacBook-Pro.local>
 Your name and email address were configured automatically based
@@ -96,25 +107,49 @@ After doing this, you may fix the identity used for this commit with:
 Although we've now edited `random-reads.py`, we can still get the unedited version by switching branches back to main (in Mac/Linux) or master (in Windows):
 
 *For Mac/Linux - NB: the main branch could also be 'master' so use `git switch master` if so*
+~~~bash
+git switch main
+~~~
+this will output:
 ~~~console
-$ git switch main
 Switched to branch 'main'
-$ ./random-reads.py --version
+~~~
+now run:
+~~~console
+./random-reads.py --version
+~~~
+this will output:
+~~~console
 random-reads.py 0.1.0
 ~~~
 
 *For Windows*
-~~~console
+~~~bash
 $ git switch master
+~~~
+this will output:
+~~~console
 Switched to branch 'master'
+~~~
+now run:
+~~~bash
 $ python random-reads.py --version
+~~~
+this will output:
+~~~console
 random-reads.py 0.1.0
 ~~~
 
 NOTE: if you get the following error `zsh: permission denied: ./random-reads.py`, then run
+~~~bash
+chmod +x random-reads.py
+~~~
+followed by:
+~~~bash
+./random-reads.py --version
+~~~
+this will output:
 ~~~console
-$ chmod +x random-reads.py
-$ ./random-reads.py --version
 random-reads.py 0.1.0
 ~~~
 
@@ -122,11 +157,13 @@ random-reads.py 0.1.0
 
 ## 6.4 Merging branches to finalise main
 
-Once we're happy with this new feature, we can merge the branch back into the main branch:
+Once we're happy with this new feature, we can merge the branch back into the main branch, run:
 
+~~~bash
+git merge -m"Update random-reads.py to allow user-specified read length" specify-readlength
+~~~
+this will output:
 ~~~console
-$ git merge -m"Update random-reads.py to allow user-specified read length" specify-readlength
-
 Merge made by the 'ort' strategy.
  random-reads.py | 5 +++--
  1 file changed, 3 insertions(+), 2 deletions(-)
@@ -156,9 +193,12 @@ Merge made by the 'ort' strategy.
 > OK, we've now merged the `specify-readlength` code back into our main branch and added a commit message for this. We're back in the main branch but our code has been updated.
 
 
-You can test the code has been updated with
+You can test the code has been updated by running
+~~~bash
+./random-reads.py --version
+~~~
+this will output:
 ~~~console
-$ ./random-reads.py --version
 random-reads.py 0.2.0
 ~~~
 
