@@ -16,6 +16,7 @@
 >
 > You can either initialise a new repository or clone an existing one (like the one/s we created in the workshop) to directly work on. Give it a go!
 
-![image](https://github.com/user-attachments/assets/d83c44ec-c8c4-4030-9621-3cf139bbdbf0) ![image](https://github.com/user-attachments/assets/5d3d24f7-d1b4-426c-ad01-c1fc7ed0a268)
+![image](https://github.com/user-attachments/assets/948c603a-1bbf-42ca-ad05-927d3ba0dad7)
+
 
 
