@@ -41,11 +41,17 @@ options:
 
 ## 9.2 Committing the README file
 
-As we've added a file, we need to make a new commit (remember, this is a snapshot of your Git project):
+As we've added a file, we need to make a new commit (remember, this is a snapshot of your Git project), by running:
 
+~~~bash
+git add README.md
+~~~
+followed by running:
+~~~bash
+git commit -m"Add README file"
+~~~
+this will output:
 ~~~console
-$ git add README.md
-$ git commit -m"Add README file"
 [main d75b82e] Add README file
  1 file changed, 21 insertions(+)
  create mode 100644 README.md
@@ -55,8 +61,11 @@ $ git commit -m"Add README file"
 
 We can now push this new commit to GitHub:
 
+~~~bash
+git push
+~~~
+this will output:
 ~~~console
-$ git push
 Enumerating objects: 4, done.
 Counting objects: 100% (4/4), done.
 Delta compression using up to 11 threads
