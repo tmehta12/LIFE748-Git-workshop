@@ -11,7 +11,7 @@ Now that we've made a workspace directory, we need to initialise an empty git re
 git init
 ~~~
 this will show:
-~~~console
+~~~bash
 # Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
 # NOTE: This will be different for each user
 ~~~
