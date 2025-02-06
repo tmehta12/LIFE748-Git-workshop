@@ -34,12 +34,12 @@ Check that git thinks that the repository is OK:
 git status
 ~~~
 this will show:
-~~~console
-On branch main # NB: this may show as 'master' - please take note of this for later
+~~~bash
+# On branch main # NB: this may show as 'master' - please take note of this for later
 
-No commits yet
+# No commits yet
 
-nothing to commit (create/copy files and use "git add" to track)
+# nothing to commit (create/copy files and use "git add" to track)
 ~~~
 
 > The above message is saying that there is a repository here, but that it is empty.
