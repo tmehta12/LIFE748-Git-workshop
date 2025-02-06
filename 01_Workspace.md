@@ -30,6 +30,9 @@ Once we've created the directory, we can change directory into it so that it bec
 
 ~~~bash
 mkdir random-reads
+~~~
+
+~~~bash
 cd random-reads
 ~~~
 
