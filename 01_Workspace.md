@@ -29,11 +29,11 @@ In this example, we're going to call it `random-reads`.
 Once we've created the directory, we can change directory into it so that it becomes the current working directory:
 
 ~~~bash
-mkdir random-reads
+mkdir random-reads # make the workspace directory
 ~~~
 
 ~~~bash
-cd random-reads
+cd random-reads # change to the workspace directory
 ~~~
 
 Make sure that it is empty, by listing all of the directory contents:
