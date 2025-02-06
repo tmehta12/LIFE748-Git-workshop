@@ -11,9 +11,9 @@ Now that we've made a workspace directory, we need to initialise an empty git re
 git init
 ~~~
 this will show:
-~~~bash
-# Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
-# NOTE: This will be different for each user
+~~~console
+Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
+NOTE: This will be different for each user
 ~~~
 
 > This command has created a new directory in the `random-reads` directory called `.git`.
@@ -34,12 +34,12 @@ Check that git thinks that the repository is OK:
 git status
 ~~~
 this will show:
-~~~bash
-# On branch main # NB: this may show as 'master' - please take note of this for later
+~~~console
+On branch main # NB: this may show as 'master' - please take note of this for later
 
-# No commits yet
+No commits yet
 
-# nothing to commit (create/copy files and use "git add" to track)
+nothing to commit (create/copy files and use "git add" to track)
 ~~~
 
 > The above message is saying that there is a repository here, but that it is empty.
