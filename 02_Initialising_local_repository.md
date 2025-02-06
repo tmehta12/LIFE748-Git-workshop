@@ -12,8 +12,8 @@ git init
 ~~~
 this will show:
 ~~~console
-Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
-NOTE: This will be different for each user
+# Initialized empty Git repository in /Users/tarangmehta/random-reads/.git/
+# NOTE: This will be different for each user
 ~~~
 
 > This command has created a new directory in the `random-reads` directory called `.git`.
