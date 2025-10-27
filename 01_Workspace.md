@@ -19,7 +19,7 @@ Before you start, you should have the following things set up:
 > We'll then create a git repository within that folder.
 > There are many different ways we can do this (like, for example, directly on the website), but for now we're going to use the terminal.
 
-Open the terminal application on your laptop and use the `cd` command to navigate to a sensible location for your work e.g., ~/Documents
+Open the terminal application on your laptop (I recommend 'gitbash' for windows or 'Terminal' for Mac) and use the `cd` command to navigate to a sensible location for your work e.g., ~/Documents
 > If you're on a Windows computer you can shortcut this process by using File Explorer to go to a location and then right-clicking on a folder and selecting "Open Git bash here".
 >
 > **NB**: If you're struggling to navigate around your computer using the shell, either ask one of the demonstrators, or have a look at the LIFE748: Intro to Linux workshop on Canvas or [Software Carpentry Unix Shell refresher workshop](https://swcarpentry.github.io/shell-novice/index.html).
