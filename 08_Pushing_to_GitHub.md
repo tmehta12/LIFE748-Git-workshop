@@ -41,6 +41,8 @@ and the repository exists.
 
 If so, you will need to add a new SSH key to your GitHub account for authentication. Please follow the instructions here: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account 
 
+NOTE: don't worry if you get any errors relating to powershell admin status, just follow the 'Generating a new SSH key' and then 'Copy the SSH public key to the clipboard' guidance e.g., `clip < ~/.ssh/id_ed25519.pub`
+
 Once done, then re-run
 ~~~bash
 git push -u origin main
